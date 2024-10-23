@@ -1,1 +1,2 @@
 First time working with git
+learning git and GitHub
